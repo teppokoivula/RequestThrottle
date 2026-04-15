@@ -1,0 +1,18 @@
+{
+    "name": "teppokoivula/request-throttle",
+    "type": "pw-module",
+    "description": "ProcessWire module that throttles requests for named resources",
+    "keywords": [ "processwire", "module" ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Teppo Koivula",
+	    "homepage": "https://github.com/teppokoivula"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "processwire/processwire": ">=3.0.184",
+        "wireframe-framework/processwire-composer-installer": "^1.0.0"
+    }
+}
